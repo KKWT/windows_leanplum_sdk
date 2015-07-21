@@ -3,7 +3,7 @@
 ## Install the SDK manually
 
 ### 1. Download files
-Include api folder¡Bcpprestsdk folder¡Bleanplumsdk folder and jsoncpp folder.
+Include api folder, cpprestsdk folder, leanplumsdk folder and jsoncpp folder.
 
 
 ### 2. Add all files into project
